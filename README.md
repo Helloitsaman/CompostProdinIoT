@@ -1,10 +1,10 @@
-# Air Quality Monitoring System Using Arduino UNO and ESP32
+# Compost Monitoring System Using Arduino UNO and ESP32
 
 ## Overview
 
-This project implements an air quality monitoring system using an Arduino UNO and an ESP32. The Arduino UNO collects data from multiple environmental sensors and transmits the readings to the ESP32 over UART. The ESP32 acquires additional gas sensor readings, combines all sensor data into a single JSON object, and outputs the consolidated data through the serial monitor.
+This project implements a compost monitoring system using an Arduino UNO and an ESP32. The Arduino UNO collects data from multiple environmental sensors and transmits the readings to the ESP32 over UART. The ESP32 acquires additional gas sensor readings, combines all sensor data into a single JSON object, and outputs the consolidated data through the serial monitor.
 
-The system is designed for environmental monitoring applications such as indoor air quality assessment, compost monitoring, and pollution analysis.
+The system is designed for compost monitoring applications such as state of compost, environmental factors, moisture, etc. for RUR Greenlife Company.
 
 ---
 
